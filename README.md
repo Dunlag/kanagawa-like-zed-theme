@@ -13,7 +13,13 @@ Kanagawa Like is a custom dark theme for Zed built to capture the feel of Kanaga
 
 ## Preview
 
-Add screenshots here.
+![Kanagawa Like Wave](assets/kanagawa-like-wave1.png)
+
+![Kanagawa Like Wave](assets/kanagawa-like-wave2.png)
+
+![Kanagawa Like Dragon](assets/kanagawa-like-dragon1.png)
+
+![Kanagawa Like Dragon](assets/kanagawa-like-dragon2.png)
 
 ## Installation
 
