@@ -4,4 +4,4 @@ version = "0.1.0"
 schema_version = 1
 authors = ["Fernando Pinilla Valbuena"]
 description = "A Kanagawa-inspired theme for Zed with colors tuned to feel closer to popular VS Code and Neovim variants."
-repository = "https://github.com/FernandoPinillaValbuena/kanagawa-like-zed-theme"
+repository = "https://github.com/Dunlag/kanagawa-like-zed-theme"
